@@ -15,7 +15,7 @@
         tools:layout_editor_absoluteY="106dp" />
 
     <Button
-        android:id="@+id/Q"
+        android:id="@+id/P"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="Q"
@@ -23,7 +23,7 @@
         tools:layout_editor_absoluteY="269dp" />
 
     <Button
-        android:id="@+id/A"
+        android:id="@+id/buttonA"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="A"
@@ -55,7 +55,7 @@
         tools:layout_editor_absoluteY="106dp" />
 
     <Button
-        android:id="@+id/L"
+        android:id="@+id/K"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="L"
@@ -63,7 +63,7 @@
         tools:layout_editor_absoluteY="187dp" />
 
     <Button
-        android:id="@+id/M"
+        android:id="@+id/L"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="M"
@@ -71,7 +71,7 @@
         tools:layout_editor_absoluteY="187dp" />
 
     <Button
-        android:id="@+id/R"
+        android:id="@+id/Q"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="R"
@@ -95,7 +95,7 @@
         tools:layout_editor_absoluteY="26dp" />
 
     <Button
-        android:id="@+id/O"
+        android:id="@+id/N"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="O"
@@ -103,7 +103,7 @@
         tools:layout_editor_absoluteY="187dp" />
 
     <Button
-        android:id="@+id/S"
+        android:id="@+id/R"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="S"
@@ -119,7 +119,7 @@
         tools:layout_editor_absoluteY="357dp" />
 
     <Button
-        android:id="@+id/W"
+        android:id="@+id/V"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="W"
@@ -175,7 +175,7 @@
         tools:layout_editor_absoluteY="26dp" />
 
     <Button
-        android:id="@+id/T"
+        android:id="@+id/S"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="T"
@@ -183,7 +183,7 @@
         tools:layout_editor_absoluteY="269dp" />
 
     <Button
-        android:id="@+id/Y"
+        android:id="@+id/Z"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="Y"
@@ -191,7 +191,7 @@
         tools:layout_editor_absoluteY="357dp" />
 
     <Button
-        android:id="@+id/P"
+        android:id="@+id/O"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="P"
@@ -199,7 +199,7 @@
         tools:layout_editor_absoluteY="269dp" />
 
     <Button
-        android:id="@+id/N"
+        android:id="@+id/M"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:text="N"
