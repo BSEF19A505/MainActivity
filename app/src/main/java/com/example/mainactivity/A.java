@@ -2,8 +2,6 @@ package com.example.mainactivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.ImageView;
 
 public class A extends AppCompatActivity {

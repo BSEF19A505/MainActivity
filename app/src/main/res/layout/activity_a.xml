@@ -10,10 +10,14 @@
         android:id="@+id/img"
         android:layout_width="340dp"
         android:layout_height="284dp"
-        android:layout_marginBottom="368dp"
         android:background="@drawable/a"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.492"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
