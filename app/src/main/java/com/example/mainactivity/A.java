@@ -45,58 +45,58 @@ public class A extends AppCompatActivity {
                 img.setBackgroundResource(R.drawable.h);
                 break;
             case 'i':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.i);
                 break;
             case 'j':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.j);
                 break;
             case 'k':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.k);
                 break;
             case 'l':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.l);
                 break;
             case 'm':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.m);
                 break;
             case 'n':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.n);
                 break;
             case 'o':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.o);
                 break;
             case 'p':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.p);
                 break;
             case 'q':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.q);
                 break;
             case 'r':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.r);
                 break;
             case 's':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.s);
                 break;
             case 't':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.t);
                 break;
             case 'u':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.u);
                 break;
             case 'v':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.v);
                 break;
             case 'w':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.w);
                 break;
             case 'x':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.x);
                 break;
             case 'y':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.y);
                 break;
             case 'z':
-                img.setBackgroundResource(R.drawable.a);
+                img.setBackgroundResource(R.drawable.z);
                 break;
 
 
